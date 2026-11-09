@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blackstoneai91.github.io/practical-operations-and-shopping-guides/sinar-saredah/sitemap.xml
